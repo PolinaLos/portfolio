@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: 'DM Sans';
+}
+
+.header-block {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 93px;
+    margin-left: 160px;
+}
+
+.nav-ul {
+    display: flex;
+    margin-right: 135px;
+}
+
+.nav-ul li {
+    margin-right: 30px;
+    margin-top: 11px;
+    font-size: 22px;
+}
+
+.main-div {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 170px;
+    margin-left: 159px;
+
+}
+
+.h1-main-text {
+    font-weight: 500;
+    font-size: 60px;
+    width: 360px;
+}
+
+.p-div {
+    margin-left: 50px;
+    margin-right: 160px;
+    font-weight: 400;
+    margin: auto;
+    font-size: 32px;
+    color: #606060;
+}
+
+.img-2 {
+    margin-left: 160px;
+    margin-top: 150px;
+}
+
+.img-1 {
+    width: 640px;
+    height: 364px;
+    margin-right: 160px;
+    margin-top: 128px;
+    background-image: url(../img/Thumbnail.png);
+}
+
+.projects {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1.5px solid #181717;
+    padding-bottom: 108px;
+}
+
+.main-header {
+    margin-left: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 125px;
+}
+
+.main-information {
+    margin-top: 25px;
+    font-weight: 400;
+    font-size: 22px;
+    color: #181717;
+}
+
+.main-information-2 {
+    font-weight: 400;
+    font-size: 22px;
+    color: #606060;
+    margin-top: 25px;
+}
+
+.main-information-3 {
+    margin-top: 167px;
+    font-weight: 500;
+    font-size: 22px;
+    text-decoration-line: underline;
+    color: #181717;
+}
+
+.img-arrow {
+    background-image: url(../img/img.png);
+    width: 33.61px;
+    height: 38.04px;
+    margin-left: 160px;
+    margin-top: 150px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 113px;
+    margin-top: 113px;
+}
+
+.p-name {
+    font-weight: 500;
+    font-size: 22px;
+    color: #2429AF;
+    margin-left: 160px;
+}
+
+.networks {
+    display: flex;
+    margin-right: 160px;
+    width: 200px;
+    justify-content: space-between;
+}
+
+.networks p {
+    font-weight: 500;
+    font-size: 22px;
+}
