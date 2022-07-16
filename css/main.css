@@ -22,7 +22,9 @@
     margin-top: 11px;
     font-size: 22px;
 }
-
+.nav-ul li:hover{
+    border-bottom:2px solid black ;
+}
 .main-div {
     display: flex;
     justify-content: space-between;
