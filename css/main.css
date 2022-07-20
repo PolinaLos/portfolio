@@ -24,6 +24,11 @@
 }
 .nav-ul li:hover{
     border-bottom:2px solid black ;
+    
+}
+.a-li{
+    text-decoration-line: none;
+    color: #181717;
 }
 .main-div {
     display: flex;
